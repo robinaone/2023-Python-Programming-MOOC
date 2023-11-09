@@ -1,0 +1,10 @@
+Python Programming MOOC 2023 Part 2 Point 2 Notes
+Learning Objectives:
+* You will know how to create multiple branches within conditional statements
+* You will understand the purpose of IF, ELIF, and ELSE statements within a conditional statement
+* You will be able to use the modulo operation % in Boolean expressions
+
+% (MODULO) produces the REMAINDER of an integer division operation
+
+When using an ELSE after an IF, it will result in either one or the other of the options happening.
+However, an ELIF will only trigger IF the condition is met, unlike an ELSE, which will just happen if the IF is not met.
