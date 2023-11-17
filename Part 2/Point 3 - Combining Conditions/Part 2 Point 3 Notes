@@ -1,0 +1,4 @@
+Python Programming MOOC 2023 Part 2 Point 3 Notes
+COMBINING CONDITIONS
+Using AND is simple, but OR specifies that at least ONE of the given conditions must be true.
+Logical operators are often called Boolean operators.
